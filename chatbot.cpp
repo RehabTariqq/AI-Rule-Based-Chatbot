@@ -13,7 +13,12 @@ int main() {
         cout << "You: ";
         getline(cin, userInput);
 
-        if (userInput == "hello" || userInput == "hi" || userInput == "hey") {
+        if (userInput == "bye" || userInput == "exit" || userInput == "quit") {
+            cout << "Reva: Goodbye! Have a great day!" << endl;
+            break;
+        }
+
+        else if (userInput == "hello" || userInput == "hi" || userInput == "hey") {
             cout << "Reva: Hello! Nice to meet you." << endl;
         }
 
