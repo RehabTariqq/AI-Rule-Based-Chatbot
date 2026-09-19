@@ -11,7 +11,9 @@ int main() {
     cout << "You: ";
     getline(cin, userInput);
 
-    cout << "You said: " << userInput << endl;
+    if (userInput == "hello") {
+        cout << "Reva: Hello! Nice to meet you." << endl;
+    }
 
     return 0;
 }
