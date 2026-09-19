@@ -1,4 +1,4 @@
-# Reva - Rule-Based AI Chatbot 🤖
+# Reva - Rule-Based AI Chatbot 
 
 Reva is a simple rule-based AI chatbot developed as part of an Artificial Intelligence internship project.
 
