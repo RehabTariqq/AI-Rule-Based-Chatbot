@@ -49,5 +49,5 @@ Generate response
 Ask for another input
     ↓
 Continue until exit command
-
+```
 *Built as part of my Artificial Intelligence Internship at DecodeLabs.*
